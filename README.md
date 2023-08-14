@@ -1,4 +1,7 @@
 # Seektime
+
+**Now maintained here**: https://github.com/threefoldtech/seektime
+
 This tool try to determine if a target device is a HDD or SSD disk.
 
 Actually, this tool just try to determine if the device behind a file (whatever it is)
